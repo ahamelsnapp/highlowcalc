@@ -2,7 +2,7 @@
 <html>
 <body>
   <h1>High-Low Calculator</h1>
-  <p>After a deck shuffle, click a button for each card that has been shown.</p>
+  <h2>After a deck shuffle, click a button for each card that has been shown.</h2>
   <button>2</button>
   <button>3</button>
   <button>4</button>

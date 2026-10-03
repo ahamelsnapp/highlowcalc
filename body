@@ -1,5 +1,22 @@
+<!DOCTYPE html>
 <html>
-  <head>
-    <title>High-Low Calculator</title?
-  </head>
+<body>
+  <h1>High-Low Calculator</h1>
+  <p>After a deck shuffle, click a button for each card that has been shown.</p>
+  <button>2</button>
+  <button>3</button>
+  <button>4</button>
+  <button>5</button>
+  <button>6</button>
+  <button>7</button>
+  <button>8</button>
+  <button>9</button>
+  <button>10</button>
+  <button>J</button>
+  <button>Q</button>
+  <button>K</button>
+  <button>A</button>
+</body>
+<head>
+</head>
 </html>
